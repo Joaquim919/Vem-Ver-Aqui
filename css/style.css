@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Playfair_Display;
+    src: url(../fonts/Playfair_Display/PlayfairDisplay-Italic-VariableFont_wght.ttf);
+}
+
+.logo{
+    font-family: Playfair_Display;
+    font-size: 4rem;
+    color: var(--bs-indigo);
+}
+
+.carousel-caption{
+    background-color: rgba(0,0,0,0.7);
+}
